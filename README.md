@@ -1,9 +1,9 @@
-# 📊 Madhav E-Commerce Sales & Profitability Dashboard
+# 📊 NovaCart E-Commerce Analytics & Insights
 
-![Banner](dark-gradient.jpg)
+![Banner](dashboard.png)
 
 ## 📖 Overview
-The **Madhav E-Commerce Sales & Profitability Dashboard** is a comprehensive and interactive Power BI project designed to analyze and visualize sales performance, profitability, and customer behavior for a retail e-commerce business. By transforming raw transaction data into actionable insights, this dashboard empowers decision-makers to track key performance indicators (KPIs), understand geographic and categorical trends, and optimize business strategies.
+The **NovaCart E-Commerce Analytics & Insights** is a comprehensive and interactive Power BI project designed to analyze and visualize sales performance, profitability, and customer behavior for a retail e-commerce business. By transforming raw transaction data into actionable insights, this dashboard empowers decision-makers to track key performance indicators (KPIs), understand geographic and categorical trends, and optimize business strategies.
 
 ## ✨ Key Features
 - **Sales & Profit Analysis**: Deep dive into overall sales, profitability, and volume trends over time.
@@ -29,7 +29,7 @@ A robust data model was established in Power BI using a **1-to-Many** relationsh
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com/omm-prog/Madhav-ECommerce-PowerBI.git
+   git clone https://github.com/omm-prog/NovaCart-ECommerce-PowerBI.git
    ```
 3. Open the `Retail Sales & Profitability Dashboard.pbix` file in Power BI Desktop.
 4. Interact with the visuals, apply filters, and explore the insights!
