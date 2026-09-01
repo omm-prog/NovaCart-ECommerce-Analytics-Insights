@@ -31,7 +31,7 @@ A robust data model was established in Power BI using a **1-to-Many** relationsh
    ```bash
    git clone https://github.com/omm-prog/NovaCart-ECommerce-PowerBI.git
    ```
-3. Open the `Retail Sales & Profitability Dashboard.pbix` file in Power BI Desktop.
+3. Open the `NovaCart E-Commerce Analytics & Insights.pbix` file in Power BI Desktop.
 4. Interact with the visuals, apply filters, and explore the insights!
 
 ---
