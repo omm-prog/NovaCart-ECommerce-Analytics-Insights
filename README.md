@@ -29,7 +29,7 @@ A robust data model was established in Power BI using a **1-to-Many** relationsh
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com/omm-prog/NovaCart-ECommerce-Analytics-Insights.git
+   git clone git@github.com:omm-prog/NovaCart-ECommerce-Analytics-Insights.git
    ```
 3. Open the `NovaCart E-Commerce Analytics & Insights.pbix` file in Power BI Desktop.
 4. Interact with the visuals, apply filters, and explore the insights!
